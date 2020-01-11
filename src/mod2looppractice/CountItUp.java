@@ -35,6 +35,8 @@ public class CountItUp {
 		// input.close();
 	}
 
+	//made some methods
+	
 	public static int getUserNumber() {
 		Scanner input = new Scanner(System.in);
 		int userNumber = input.nextInt();
